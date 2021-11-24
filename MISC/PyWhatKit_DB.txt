@@ -1,0 +1,15 @@
+Date: 20/11/2021
+Time: 10:26
+Phone Number: +917903929654
+Message: This message was sent using pywhatkit, A python library which sends whatsapp message
+--------------------
+Date: 20/11/2021
+Time: 10:28
+Phone Number: +91 79036 72560
+Message: This message was sent using pywhatkit, A python library which sends whatsapp message
+--------------------
+Date: 20/11/2021
+Time: 10:31
+Phone Number: +91 79036 72560
+Message: This message was sent using pywhatkit, A python library which sends whatsapp message
+--------------------
